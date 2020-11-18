@@ -1,6 +1,6 @@
 
 [![python](https://img.shields.io/badge/Program-Python-cyan.svg)](https://www.python.org/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux-cyan.svg)])(https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-cyan.svg)](https://en.wikipedia.org/wiki/Linux)
 
 # Linux Website Blocker(LWB)
 
