@@ -41,9 +41,8 @@ cd lwb
 
 save your target website.
 
-<br>
  run it
-<br>
+
 + sudo python lwb.py
 
 ### Screenshot ###
