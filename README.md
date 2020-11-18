@@ -24,14 +24,10 @@ Block Adult or Unwanted Websites on Linux.It is a easy  way to block adult websi
 
 ### Terminal Command ###
 
-<br>
-git clone https://github.com/r3k4t/lwb.git
-<br>
-cd lwb
++ git clone https://github.com/r3k4t/lwb.git
++ cd lwb
 
 ### Edit & Change ###
-
-<br>
 
 + nano weblist.txt or leafpad weblist.txt or mousepad weblist.txt
 
