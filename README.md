@@ -27,6 +27,10 @@ Block Adult or Unwanted Websites on Linux.It is a easy  way to block adult websi
 + git clone https://github.com/r3k4t/lwb.git
 + cd lwb
 
+### Setup ###
+
++ pip install -r requirements.txt
+
 ### Edit & Change ###
 
 + nano weblist.txt or leafpad weblist.txt or mousepad weblist.txt
