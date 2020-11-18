@@ -33,7 +33,7 @@ cd lwb
 
 <br>
 
-nano weblist.txt or leafpad weblist.txt or mousepad weblist.txt
++ nano weblist.txt or leafpad weblist.txt or mousepad weblist.txt
 
 <br>
 
@@ -42,9 +42,9 @@ nano weblist.txt or leafpad weblist.txt or mousepad weblist.txt
 save your target website.
 
 <br>
-run it
+ run it
 <br>
-sudo python lwb.py
++ sudo python lwb.py
 
 ### Screenshot ###
 
